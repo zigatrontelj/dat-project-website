@@ -24,7 +24,7 @@
 #bottom { bottom: 0; }
 
 header {
-  height: 130vh;
+  height: 150vh;
 }
 
 #logod, #logoa, #logot {
@@ -55,7 +55,7 @@ header {
 }
 
 body {
-  font-family: futura;
+  font-family: 'Open Sans', sans-serif;
 }
 
 nav {
@@ -120,17 +120,14 @@ a:hover{
 }
 
 h1 {
-  font-family: futura;
   font-size: 3rem;
   margin-bottom: 3rem;
 }
 h3 {
-  font-family: futura;
   font-size: 2rem;
 }
 
 p {
-  font-family: futura lt bt;
   font-size: 1.5rem;
 }
 
