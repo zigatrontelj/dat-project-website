@@ -5,7 +5,7 @@
  */
 
 #top, #bottom, #left, #right {
-  background: red ;
+  background: #d72b28;
   position: fixed;
   z-index: 1030;
 }
@@ -112,7 +112,7 @@ nav {
 
 
 a {
-  color: red;
+  color: #d72b28;
   font-size: 2.5rem;
 }
 a:hover{
@@ -142,25 +142,25 @@ footer {
   min-height: 100vh;
 }
 .btn{
-  border: 3px solid red;
+  border: 3px solid #d72b28;
   border-radius: 0rem;
   color: black;
   background: white;
 }
 .btn:hover{
   color: white;
-  background: red;
+  background: #d72b28;
 }
 .btn:active{
-  border: 3px solid red;
+  border: 3px solid #d72b28;
   border-radius: 0rem;
 }
 .btn:focus{
-  border: 3px solid red;
+  border: 3px solid #d72b28;
   border-radius: 0rem;
 }
 .modal-content{
-  border: 10px solid red;
+  border: 10px solid #d72b28;
   border-radius: 0rem;
 }
 #locais {
