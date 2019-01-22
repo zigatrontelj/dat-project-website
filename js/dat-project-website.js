@@ -29,7 +29,7 @@
 
   $(window).scroll(function (event) {
     var scroll = $(window).scrollTop();
-    console.log(scroll);
+    //console.log(scroll);
     $("#logod").css("top", 40-scroll/4+"%");
     $("#logoa").css("top", 40-scroll/6+"%");
     $("#logot").css("top", 40-scroll/3+"%");
